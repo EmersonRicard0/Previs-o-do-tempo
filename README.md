@@ -1,2 +1,2 @@
-# Previs-o-do-tempo
+# Previsão-do-tempo
 Previsão do tempo
